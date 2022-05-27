@@ -1,0 +1,6 @@
+projectKey=sample-nest-app
+serverUrl=http://localhost:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://localhost:9000/dashboard?id=sample-nest-app
+ceTaskId=AYEBbaXrJxMDw_5Q3Xlv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYEBbaXrJxMDw_5Q3Xlv
